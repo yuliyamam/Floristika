@@ -1,0 +1,34 @@
+*{
+	box-sizing: border-box;
+}
+a{
+	text-decoration: none;
+	display: inline-block;
+	font-size: 30px;
+	margin: 15px;
+	border: 3px solid grey;
+}
+
+.zagolovok{
+	font-size: 70px;
+	font-weight: 800;
+	margin: 0 auto;
+	color: red;
+	text-shadow: black 5px 5px 5px;
+	background-image: url(../img/fon.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 100px;
+}
+
+.textt{
+	font-size: 20px;
+}
+.textt2{
+	font-size: 20px;
+}
+
+body{
+	background-color: grey;
+}
